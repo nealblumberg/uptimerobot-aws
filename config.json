@@ -1,0 +1,18 @@
+{
+  "DEFAULT": {
+    "aws_access_key": "{YOUR_AWS_ACCESS_KEY",
+    "aws_secret_key": "{YOUR_AWS_SECRET_KEY}",
+    "ec2_region_name": "{YOUR_AWS_REGION}",
+    "ec2_region_endpoint": "{YOUR_AWS_REGION_ENDPOINT}",
+    "all_apikey": "{YOUR_UPTIMEROBOT_APIKEY}"
+  },
+  "EMAIL":{
+    "email_username": "{YOUR_EMAIL_ADDRESS}",
+    "email_password": "{YOUR_EMAIL_PASSWORD}",
+    "from_addr": "{FROM_ADDRESS_FOR_STATUS_EMAILS}",
+    "to_addr": "{TO_ADDRESS_FOR_STATUS_EMAILS}"
+  },
+  "LocalSettings": {
+    "reboot_threshold": 300
+  }
+}
